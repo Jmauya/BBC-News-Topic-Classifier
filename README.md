@@ -5,6 +5,7 @@ Project Overview
 This project utilizes a Multinomial Naive Bayes model to analyze the vocabulary of news stories. By identifying key patterns and word frequencies within the text, the model can accurately distinguish between different types of news content.
 
 The model classifies news into 5 categories:
+
 Business
 
 Entertainment
